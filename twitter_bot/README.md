@@ -7,4 +7,8 @@
 - twitter developerで、App permissionsをRead and Writeに変更
 - twitter api からツイート　https://twitter.com/camsiPhone215/status/1367593009718513665
 - user_timelineの取得
-
+- ディープラーニングとは
+    - 多数の層からなるニューラルネットワークの学習のことをディープラーニング
+    - 層ごとに遡るように誤差を電波させて重みとバイアスを更新するのが、バックプロパゲーション
+    - シナプスにあたる伝達効率のことを重み
+    - ニューロンの感度にあたるものをバイアス
